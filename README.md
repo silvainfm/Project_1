@@ -1,2 +1,3 @@
-# Project_1
-FinTech Project 1
+# Portfolio Analyzer 
+
+- Analyze how a portfolio would do depending 
